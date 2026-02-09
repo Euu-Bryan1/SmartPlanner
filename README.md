@@ -17,7 +17,7 @@ Criar um protótipo navegável simulando um aplicativo real.
 - Gerenciamento de tarefas
 
 ## 📐 Diagramas
-(Colocar imagens aqui)
+https://imgur.com/a/HlhrAma
 
 ## 🎥 Demonstração
 https://www.figma.com/design/MMo3USrFUNSEGBpPvyO12m/SmartPlanner?node-id=0-1&t=9pHr7NqMT5sAAblN-1
